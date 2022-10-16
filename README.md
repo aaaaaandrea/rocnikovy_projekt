@@ -8,6 +8,7 @@
 
 
 ### zdroje 
+* https://course.fast.ai/
 * https://www.reddit.com/r/bigsleep/comments/xb5cat/wiskkeys_lists_of_texttoimage_systems_and_related/ ----- seznam
 * (https://towardsdatascience.com/how-i-built-an-ai-text-to-art-generator-a0c0f6d6f59f)
 * https://openai.com/blog/clip/
