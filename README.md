@@ -7,7 +7,9 @@
 
 #### Září
 * Zjistit více o deep learning
-* Sestavit mobul pro rozpoznání obrázků (zvážit to jako projekt)
+* Sestavit modul pro rozpoznání obrázků (zvážit to jako projekt)
+
+
 
 
 
