@@ -5,6 +5,10 @@
 * Prozkoumat VQGAN technologii
 * Prozkoumat CLIP technologii
 
+#### Září
+* Zjistit více o deep learning
+* Sestavit mobul pro rozpoznání obrázků (zvážit to jako projekt)
+
 
 
 ### zdroje 
