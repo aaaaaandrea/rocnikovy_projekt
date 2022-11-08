@@ -1,4 +1,4 @@
-# Text to Art AI generator
+# AI Image Classifier (rozpoznavani obrazku)
 
 ### cile
 #### Září
@@ -8,6 +8,9 @@
 #### Září
 * Zjistit více o deep learning
 * Sestavit modul pro rozpoznání obrázků (zvážit to jako projekt)
+
+### Říjen
+*TensorFlow vs pytorch
 
 
 
