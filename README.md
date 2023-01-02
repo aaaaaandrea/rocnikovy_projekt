@@ -14,7 +14,7 @@
 3. vytvořit venv pro projekt
     * v příkazovém řádku si otevřeme složku s projektem a napíšeme:
     ```
-    python -m venv ***nazev***
+    python -m venv nazev
     ```
     * aktivujeme virtuální prostředí (pro windows):
     ```
@@ -24,7 +24,7 @@
     * Umožní připojit venv k jupyter notebooku
     ```
     pip install ipykernel
-    python -m ipykernel install --name=***nazev***
+    python -m ipykernel install --name=nazev
     ```
     * Pro kontrolu si vypíšeme list všech dostupných venv/kernelů
     ```
