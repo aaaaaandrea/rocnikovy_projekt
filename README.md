@@ -1,25 +1,38 @@
-# AI Image Classifier (rozpoznavani obrazku)
+# Klasifikátor obrázků s použitím CNN
 
 ### cile
-#### Září
-* Prozkoumat VQGAN technologii
-* Prozkoumat CLIP technologii
+*
+*
+*
 
-#### Září
-* Zjistit více o deep learning
-* Sestavit modul pro rozpoznání obrázků (zvážit to jako projekt)
-
-### Říjen
-*TensorFlow vs pytorch
-
-
+### Spuštění
+1. stáhnout python
+2. stáhnout jupyter
+```
+pip install notebook
+```
+3. vytvořit venv pro projekt
+    * v příkazovém řádku si otevřeme složku s projektem a napíšeme:
+    ```
+    python -m venv ***nazev***
+    ```
+    * aktivujeme virtuální prostředí (pro windows):
+    ```
+    .\***nazev***\scripts\activate
+    ```
+4. instalovat ipykernel
+    * Umožní připojit venv k jupyter notebooku
+    ```
+    pip install ipykernel
+    python -m ipykernel install --name=***nazev***
+    ```
+5.
 
 
 
 ### zdroje 
-* https://course.fast.ai/
-* https://www.reddit.com/r/bigsleep/comments/xb5cat/wiskkeys_lists_of_texttoimage_systems_and_related/ ----- seznam
-* (https://towardsdatascience.com/how-i-built-an-ai-text-to-art-generator-a0c0f6d6f59f)
-* https://openai.com/blog/clip/
-* https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/
-* https://ml.berkeley.edu/blog/posts/vq-vae/
+https://cs231n.github.io/convolutional-networks/
+https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+https://www.youtube.com/watch?v=jztwpsIzEGc
+https://www.youtube.com/watch?v=FmpDIaiMIeA
+https://www.youtube.com/watch?v=19LQRx78QVU&t=2344s
