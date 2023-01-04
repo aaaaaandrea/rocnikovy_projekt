@@ -1,8 +1,9 @@
 # Klasifikátor obrázků s použitím CNN
 
 ### cile
-*
-*
+* zprovoznit jupyter
+* vytvořit dataset
+* 
 *
 
 ### Spuštění
