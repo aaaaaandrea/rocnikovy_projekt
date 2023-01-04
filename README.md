@@ -3,7 +3,7 @@
 ### cile
 * zprovoznit jupyter
 * vytvořit dataset
-* 
+* načíst data
 *
 
 ### Spuštění
