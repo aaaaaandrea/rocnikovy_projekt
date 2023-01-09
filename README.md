@@ -4,6 +4,7 @@
 * zprovoznit jupyter
 * vytvořit dataset
 * načíst data
+* rozdělit data
 *
 
 ### Spuštění
