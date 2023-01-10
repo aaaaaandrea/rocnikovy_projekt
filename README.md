@@ -1,4 +1,4 @@
-# Klasifikátor obrázků s použitím CNN
+# Klasifikátor obrázků s použitím ConvNet
 
 ### cile
 * zprovoznit jupyter
