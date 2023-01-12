@@ -20,7 +20,7 @@
     ```
     * aktivujeme virtuální prostředí (pro windows):
     ```
-    .\***nazev***\scripts\activate
+    .\nazev\scripts\activate
     ```
 4. instalovat ipykernel
     * Umožní připojit venv k jupyter notebooku
