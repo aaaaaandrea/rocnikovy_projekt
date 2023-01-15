@@ -5,7 +5,9 @@
 * vytvořit dataset
 * načíst data
 * rozdělit data
-* vytrenovat sít
+* vytrenovat model
+* vyhodnotit model
+* otestovat model
 
 ### Spuštění
 1. stáhnout python
